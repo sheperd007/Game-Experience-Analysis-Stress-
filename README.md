@@ -1,0 +1,2 @@
+# Game-Experience-Analysis-Stress-
+In a study conducted on a number of people, sensory and brain data were collected while playing computer games, and an attempt was made to use these data to predict the level of stress in people. In fact, we are facing a classification problem. Psychological tests have been used to measure stress levels. Note that the data is confidential and only the code is shared.
